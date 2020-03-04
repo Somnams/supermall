@@ -3,4 +3,4 @@
 主页展示：
 
 
-![](https://github.com/Somnams/supermall/raw/master/publish/002.gif)
+![](https://github.com/Somnams/supermall/raw/master/public/home.png)
